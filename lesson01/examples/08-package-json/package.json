@@ -1,0 +1,15 @@
+{
+  "name": "08-package-json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error, no tests\"",
+    "start": "node server.js",
+    "dev": "node server.js",
+    "start:dev": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

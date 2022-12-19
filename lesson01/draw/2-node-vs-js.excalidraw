@@ -940,6 +940,163 @@
       "verticalAlign": "middle",
       "containerId": "yCOv6iwvxZbU23yCYO9Cl",
       "originalText": "// ..."
+    },
+    {
+      "id": "T4v7cxJno5zJG9PkSfAlk",
+      "type": "text",
+      "x": 818.1641387939453,
+      "y": 774.0076262205839,
+      "width": 546,
+      "height": 25,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "strokeSharpness": "sharp",
+      "seed": 1064796912,
+      "version": 70,
+      "versionNonce": 430534384,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "Qv73FC-xggKEq4JxzojlU",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1671466447255,
+      "link": null,
+      "locked": false,
+      "text": "кросплатформове середовище для виконання JavaScript",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "baseline": 18,
+      "containerId": null,
+      "originalText": "кросплатформове середовище для виконання JavaScript"
+    },
+    {
+      "id": "CFeLCbwwQ5a-9rYctj3S0",
+      "type": "rectangle",
+      "x": 958.8307647705078,
+      "y": 684.0456827133894,
+      "width": 205.83331298828125,
+      "height": 40.32550048828125,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "#228be6",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "strokeSharpness": "sharp",
+      "seed": 88244240,
+      "version": 60,
+      "versionNonce": 711494896,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "UZQwchlwCPLyBSYiT22HI"
+        },
+        {
+          "id": "Qv73FC-xggKEq4JxzojlU",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1671466447255,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "UZQwchlwCPLyBSYiT22HI",
+      "type": "text",
+      "x": 1020.2474212646484,
+      "y": 691.70843295753,
+      "width": 83,
+      "height": 25,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "strokeSharpness": "sharp",
+      "seed": 1789221104,
+      "version": 51,
+      "versionNonce": 230505200,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1671466432448,
+      "link": null,
+      "locked": false,
+      "text": "Node JS",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "baseline": 18,
+      "containerId": "CFeLCbwwQ5a-9rYctj3S0",
+      "originalText": "Node JS"
+    },
+    {
+      "id": "Qv73FC-xggKEq4JxzojlU",
+      "type": "arrow",
+      "x": 1054.664077758789,
+      "y": 733.7201211899519,
+      "width": 2.5,
+      "height": 31.15887451171875,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "#228be6",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "strokeSharpness": "round",
+      "seed": 479846640,
+      "version": 45,
+      "versionNonce": 2011626000,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1671466447255,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          2.5,
+          31.15887451171875
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "CFeLCbwwQ5a-9rYctj3S0",
+        "focus": 0.09041218753915883,
+        "gap": 9.34893798828125
+      },
+      "endBinding": {
+        "elementId": "T4v7cxJno5zJG9PkSfAlk",
+        "focus": -0.11775316025358136,
+        "gap": 9.128630518913269
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow"
     }
   ],
   "appState": {
