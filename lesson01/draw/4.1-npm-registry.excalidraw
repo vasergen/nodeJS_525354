@@ -4,40 +4,6 @@
   "source": "https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor",
   "elements": [
     {
-      "type": "text",
-      "version": 237,
-      "versionNonce": 1095927267,
-      "isDeleted": false,
-      "id": "HqVcDipvXuv4s2lJ3siN9",
-      "fillStyle": "cross-hatch",
-      "strokeWidth": 1,
-      "strokeStyle": "solid",
-      "roughness": 1,
-      "opacity": 100,
-      "angle": 0,
-      "x": 970.7207629680634,
-      "y": -28.83766210079193,
-      "strokeColor": "#000000",
-      "backgroundColor": "#7950f2",
-      "width": 392,
-      "height": 36,
-      "seed": 642484690,
-      "groupIds": [],
-      "strokeSharpness": "sharp",
-      "boundElements": [],
-      "updated": 1664744434700,
-      "link": null,
-      "locked": false,
-      "fontSize": 28,
-      "fontFamily": 1,
-      "text": "npm - node package manager",
-      "baseline": 25,
-      "textAlign": "left",
-      "verticalAlign": "top",
-      "containerId": null,
-      "originalText": "npm - node package manager"
-    },
-    {
       "type": "rectangle",
       "version": 164,
       "versionNonce": 510933893,
@@ -108,8 +74,8 @@
     },
     {
       "type": "arrow",
-      "version": 748,
-      "versionNonce": 1942977643,
+      "version": 882,
+      "versionNonce": 1375888514,
       "isDeleted": false,
       "id": "9yv6jOWpKFtywAEAVS5l1",
       "fillStyle": "solid",
@@ -118,17 +84,17 @@
       "roughness": 1,
       "opacity": 100,
       "angle": 0,
-      "x": 1015.129949907926,
-      "y": 95.9670542808428,
+      "x": 1002.7966064020668,
+      "y": 122.1755978885025,
       "strokeColor": "#000000",
       "backgroundColor": "#e64980",
-      "width": 122.02763409360705,
-      "height": 85.85977623126738,
+      "width": 134.3609775994662,
+      "height": 69.27079719602014,
       "seed": 782285901,
       "groupIds": [],
       "strokeSharpness": "round",
       "boundElements": [],
-      "updated": 1671453106788,
+      "updated": 1671454458944,
       "link": null,
       "locked": false,
       "startBinding": {
@@ -150,15 +116,15 @@
           0
         ],
         [
-          122.02763409360705,
-          85.85977623126738
+          134.3609775994662,
+          69.27079719602014
         ]
       ]
     },
     {
       "type": "arrow",
-      "version": 634,
-      "versionNonce": 272962501,
+      "version": 793,
+      "versionNonce": 734149185,
       "isDeleted": false,
       "id": "hbjz-bB2T083C8Bsziwry",
       "fillStyle": "solid",
@@ -168,24 +134,28 @@
       "opacity": 100,
       "angle": 0,
       "x": 1135.6894563684423,
-      "y": 193.93869756808374,
+      "y": 206.79820034239836,
       "strokeColor": "#000000",
       "backgroundColor": "#e64980",
-      "width": 124.28056659793447,
-      "height": 81.63620241820126,
+      "width": 132.61391010379361,
+      "height": 62.34184181899886,
       "seed": 818357389,
       "groupIds": [],
       "strokeSharpness": "round",
       "boundElements": [],
-      "updated": 1671453106788,
+      "updated": 1671455044998,
       "link": null,
       "locked": false,
       "startBinding": {
         "elementId": "bu1PW8dTG4h2GGlfb4cUv",
-        "gap": 5.719372366909231,
-        "focus": 0.5777523713768893
+        "focus": 0.3478970102361864,
+        "gap": 5.719372366909283
       },
-      "endBinding": null,
+      "endBinding": {
+        "elementId": "dwjxq52g70PqCfrLkpTB0",
+        "focus": 0.5595190402336567,
+        "gap": 8.497375488281477
+      },
       "lastCommittedPoint": null,
       "startArrowhead": null,
       "endArrowhead": "arrow",
@@ -195,15 +165,15 @@
           0
         ],
         [
-          -124.28056659793447,
-          81.63620241820126
+          -132.61391010379361,
+          62.34184181899886
         ]
       ]
     },
     {
       "type": "text",
-      "version": 173,
-      "versionNonce": 695841492,
+      "version": 236,
+      "versionNonce": 1225084098,
       "isDeleted": false,
       "id": "7iJtf_qAAUdNLfx2WSbZg",
       "fillStyle": "solid",
@@ -212,11 +182,11 @@
       "roughness": 1,
       "opacity": 100,
       "angle": 0,
-      "x": 778.9141082763672,
-      "y": 74.26758965849876,
+      "x": 920.5807647705078,
+      "y": 111.25977715849876,
       "strokeColor": "#000000",
       "backgroundColor": "#e64980",
-      "width": 223,
+      "width": 69,
       "height": 25,
       "seed": 1158485987,
       "groupIds": [],
@@ -227,22 +197,22 @@
           "type": "arrow"
         }
       ],
-      "updated": 1671452001750,
+      "updated": 1671454458943,
       "link": null,
       "locked": false,
       "fontSize": 20,
       "fontFamily": 1,
-      "text": "publish: name + version",
+      "text": "publish:",
       "baseline": 18,
       "textAlign": "left",
       "verticalAlign": "top",
       "containerId": null,
-      "originalText": "publish: name + version"
+      "originalText": "publish:"
     },
     {
       "type": "text",
-      "version": 78,
-      "versionNonce": 506973932,
+      "version": 184,
+      "versionNonce": 1361097455,
       "isDeleted": false,
       "id": "dwjxq52g70PqCfrLkpTB0",
       "fillStyle": "solid",
@@ -252,26 +222,31 @@
       "opacity": 100,
       "angle": 0,
       "x": 927.5781707763672,
-      "y": 264.9264641702175,
+      "y": 260.57752618193626,
       "strokeColor": "#000000",
       "backgroundColor": "#e64980",
-      "width": 62,
+      "width": 67,
       "height": 25,
       "seed": 2023295917,
       "groupIds": [],
       "strokeSharpness": "sharp",
-      "boundElements": [],
-      "updated": 1671452005217,
+      "boundElements": [
+        {
+          "id": "hbjz-bB2T083C8Bsziwry",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1671455040795,
       "link": null,
       "locked": false,
       "fontSize": 20,
       "fontFamily": 1,
-      "text": "install",
+      "text": "install:",
       "baseline": 18,
       "textAlign": "left",
       "verticalAlign": "top",
       "containerId": null,
-      "originalText": "install"
+      "originalText": "install:"
     },
     {
       "type": "text",
