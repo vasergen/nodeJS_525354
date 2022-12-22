@@ -2,7 +2,7 @@
 
 - fs
   - basic operations with files
-- what is 'event loop'
+- event loop
 - cli app 
 
 ## RESOURCES
