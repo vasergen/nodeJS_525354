@@ -5,7 +5,7 @@
   - what is web server?
   - routes html
   - routes json
-  - middlewares
+  - middleware
 - REST
   - suggestions / good practice
 
@@ -14,3 +14,5 @@
 - http spec: https://www.rfc-editor.org/rfc/rfc9110.html
 - state of js: https://2021.stateofjs.com/en-US/libraries/back-end-frameworks 
 - status codes: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status#information_responses
+- cors: https://www.npmjs.com/package/cors
+- morgan: https://www.npmjs.com/package/morgan 
