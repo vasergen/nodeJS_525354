@@ -2,10 +2,9 @@
 
 - serve static
 - error handling 
-- express.json()
-- logger
-  - morgan
-- test API with postman
+- dynamic path
+- express.json
+- validation
 
 ## Resources
 - http spec: https://www.rfc-editor.org/rfc/rfc9110.html
