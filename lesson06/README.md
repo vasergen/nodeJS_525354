@@ -7,4 +7,5 @@
 
 
 ## Resources
-- https://raw.githubusercontent.com/theapache64/top250/master/top250.json 
+- mongoose: https://mongoosejs.com
+- movies JSON example: https://raw.githubusercontent.com/theapache64/top250/master/top250.json 
