@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <script src="/socket.io/socket.io.js"></script>
+  </head>
+  <body>
+    <form id="form">
+      <label for="user">User</label>
+      <input type="text" name="user" />
+      <label for="message">Message</label>
+      <input type="text" name="message" />
+
+      <button type="submit">Send</button>
+    </form>
+
+    <ul id="messages"></ul>
+
+    <script>
+      //
+      const ws = io();
+
+      ws.on("chatMessage", (message) => {
+        addMessage(message);
+      });
+
+      // Form
+      const form = document.getElementById("form");
+
+      form.addEventListener("submit", function (e) {
+        e.preventDefault();
+
+        const user = e.target.user.value;
+        const message = e.target.message.value;
+
+        ws.emit("chatMessage", `${user}: ${message}`);
+        addMessage(`${user}: ${message}`);
+
+        e.target.message.value = "";
+      });
+
+      function addMessage(message) {
+        const messages = document.getElementById("messages");
+        const li = document.createElement("li");
+        li.innerText = message;
+        messages.appendChild(li);
+      }
+    </script>
+  </body>
+</html>
